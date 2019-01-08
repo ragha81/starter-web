@@ -1,6 +1,6 @@
-# Starter Web Repo
+	# Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Add a line for rebasing example, more changes from my feature branch.
+This repository is for showing how Git and GitHub work. emergency fix after stash
 
 ## Introduction
 
