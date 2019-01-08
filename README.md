@@ -18,4 +18,4 @@ Sample deployment
 
 ### Copyright
 
-2018 copyright notice
+2018 copyright notice, all rights reserved.
